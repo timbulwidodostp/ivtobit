@@ -1,6 +1,8 @@
 # ivtobit
 Simultaneous equation tobit model Use ivtobit (tobit1) With (In) R Software
 
+https://www.youtube.com/watch?v=3wqJYZZ_-iY
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
